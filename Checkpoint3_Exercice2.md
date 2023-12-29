@@ -64,8 +64,12 @@ Le TCP et l'ICMP sont autoriser
 
 Q.2.5.3 Quels types sont interdit ?
 
+Je n'en voit pas.
 
 Q.2.5.4 Sur nftables, ajouter les règles nécessaires pour autoriser bareos à communiquer avec les clients bareos potentiellement présents sur l'ensemble des machines du réseau local sur lequel se trouve le serveur.
+
+![Capture d'écran 2023-12-29 134333](https://github.com/Bouns77/Checkpoint_3/assets/144699498/9cd67d64-42fd-4f4a-bfb6-ebef3624598c)
+
 
 #### Partie 6 : Analyse de logs
 
