@@ -38,6 +38,8 @@ Q.1.2.3 Mettre en place une stratégie de mot de passe pour durcir les comptes d
 
 Q.1.3.1 Créer une GPO Drive-Mount qui monte les lecteurs E: et F: sur les clients.
 
+![Capture d'écran 2023-12-29 124356](https://github.com/Bouns77/Checkpoint_3/assets/144699498/bcdaa13b-f6aa-4eb8-ade9-bdb5eda217d6)
 
+![Capture d'écran 2023-12-29 124532](https://github.com/Bouns77/Checkpoint_3/assets/144699498/6f6b2c68-8d52-4ab4-858c-295ce4a098c3)
 
 
